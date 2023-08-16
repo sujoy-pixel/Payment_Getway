@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\api_gateway_mascoschool.props" />
+</Project>

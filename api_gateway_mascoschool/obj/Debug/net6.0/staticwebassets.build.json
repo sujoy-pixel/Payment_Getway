@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TWVQOmkviJWtpXciiEIdj/+5eNioKEZTBiuX9Ss5flc=",
+  "Source": "api_gateway_mascoschool",
+  "BasePath": "_content/api_gateway_mascoschool",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
